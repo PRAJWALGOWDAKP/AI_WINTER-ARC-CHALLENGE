@@ -1,0 +1,46 @@
+Job_Title: Junior Python Developer
+Company: Inspity IT Solutions
+Location: Bengaluru, Karnataka, India
+Experience: 2+ years
+Required_Skills: Python, FastAPI, NumPy, Pandas, SQL, IoT/Machine Learning (Good to have)
+Salary: ₹5-6 LPA
+Job Description:
+Inspity IT Solutions is hiring a Junior Python Developer to develop Python-based applications, data-processing pipelines, and AI/ML solutions working with real-time industrial data. You will build and integrate REST APIs, manage backend services, and collaborate with IoT, embedded, and frontend teams to convert sensor data into actionable intelligence.
+Requirements:
+• Strong programming knowledge in Python and Object-Oriented Programming (OOP).
+• Experience developing REST APIs and backend services using FastAPI, Flask, or Django.
+• Good knowledge of SQL and standard database concepts.
+• Understanding of data processing libraries like NumPy and Pandas.
+• Familiarity with Git/version control.
+Work Mode: Full-time, In-person (On-site)
+
+
+Company: I2global Virtual Learning
+Location: Koramangala, Bengaluru, Karnataka, India
+Experience: 2 to 4 years
+Required_Skills: Python, FastAPI, Flask, Backend Development, Product Engineering
+Salary: ₹7-10 LPA
+Job Description:
+I2global Virtual Learning is seeking an experienced Python Backend Developer for its product engineering division. The role focuses on developing scalable backend systems, optimizing API endpoints, and driving core engineering functionality for custom learning platforms.
+Requirements:
+• 2 to 4 years of professional experience as a backend or product engineer.
+• High proficiency in building and deploying web applications using Python.
+• Strong hands-on experience using FastAPI or Flask web frameworks.
+• Excellent architectural design and backend logic optimization capabilities.
+Work Mode: Full-time, On-site
+
+
+Job_Title: Python Developer
+Company: Verdeshell Technologies
+Location: Bengaluru, Karnataka, India
+Experience: 3+ years
+Required_Skills: Python, FastAPI, SQL, Cloud Architecture, AWS/Azure
+Salary: ₹8-14 LPA
+Job Description:
+Verdeshell Technologies is looking for a Python Developer to join an embedded pod working directly inside client environments on live production systems. Responsibilities include building robust product integrations, shipping automated data pipelines, and expanding core microservices.
+Requirements:
+• Solid experience writing production-grade, asynchronous Python backend logic.
+• Hands-on deployment of RESTful architectures utilizing FastAPI or microservice frameworks.
+• Proficiency in handling complex relational database schemas and SQL query tuning.
+• Practical familiarity with modern cloud infrastructure (AWS or Azure runtime environments).
+Work Mode: Full-time, Office (On-site)
